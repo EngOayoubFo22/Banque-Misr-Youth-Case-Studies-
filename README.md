@@ -76,11 +76,6 @@ Developed as a financial analytics showcase to visualize key metrics, user growt
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 Feel free to contribute, create issues, or reach out for collaboration!
 
