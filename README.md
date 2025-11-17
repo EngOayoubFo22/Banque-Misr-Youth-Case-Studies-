@@ -1,5 +1,6 @@
 # 💼 Financial Performance Dashboard Suite
 
+
 Welcome to the **Financial Performance Dashboard Suite** — a comprehensive Streamlit app showcasing detailed financial performance insights from top brands including Revolut, Telda, and American Express.
 
 ---
@@ -54,19 +55,7 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-
-git clone https://github.com/yourusername/your-repo.git
-
-2. Navigate to the project directory:
-
-cd your-repo
-
-3. Run the Streamlit app:
-
-streamlit run app.py
-
-4. Open the provided local URL in your browser.
+simply go to this link : https://banque-misr-youth-dashboards.streamlit.app/
 
 ---
 
